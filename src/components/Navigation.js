@@ -20,7 +20,7 @@ export default function Navigation() {
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="ms-auto">
-            <LinkContainer to="kodecampsolu/">
+            <LinkContainer to="/kodecampsolu/">
               <Nav.Link>Home</Nav.Link>
             </LinkContainer>
             <LinkContainer to="/about">
