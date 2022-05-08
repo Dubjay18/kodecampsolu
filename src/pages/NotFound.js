@@ -5,7 +5,7 @@ function NotFound() {
     <div className="mx-4">
       <h1>404</h1>
       <h3>Page not found</h3>
-      <Link to="/" className="btn btn-outline-warning">
+      <Link to="kodecampsolu/" className="btn btn-outline-warning">
         HomePage
       </Link>
     </div>
