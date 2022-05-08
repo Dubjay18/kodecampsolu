@@ -15,10 +15,10 @@ function App() {
       <BrowserRouter>
         <Routes>
           <Route path={"kodecampsolu/"} element={<Home />} />
-          <Route path={"kodecampsolu/about"} element={<About />} />
-          <Route path={"kodecampsolu/products"} element={<Products />} />
-          <Route path={"kodecampsolu/contact"} element={<Contact />} />
-          <Route path="kodecampsolu/product/:id" element={<Product />} />
+          <Route path={"/about"} element={<About />} />
+          <Route path={"/products"} element={<Products />} />
+          <Route path={"/contact"} element={<Contact />} />
+          <Route path="/product/:id" element={<Product />} />
           <Route path={"*"} element={<NotFound />} />
         </Routes>
       </BrowserRouter>
