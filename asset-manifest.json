@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/kodecampsolu/static/css/main.dd6673ea.chunk.css",
-    "main.js": "/kodecampsolu/static/js/main.961d5e54.chunk.js",
-    "main.js.map": "/kodecampsolu/static/js/main.961d5e54.chunk.js.map",
+    "main.js": "/kodecampsolu/static/js/main.9e8be565.chunk.js",
+    "main.js.map": "/kodecampsolu/static/js/main.9e8be565.chunk.js.map",
     "runtime-main.js": "/kodecampsolu/static/js/runtime-main.316bfa04.js",
     "runtime-main.js.map": "/kodecampsolu/static/js/runtime-main.316bfa04.js.map",
     "static/css/2.383c0125.chunk.css": "/kodecampsolu/static/css/2.383c0125.chunk.css",
@@ -29,6 +29,6 @@
     "static/css/2.383c0125.chunk.css",
     "static/js/2.27c55900.chunk.js",
     "static/css/main.dd6673ea.chunk.css",
-    "static/js/main.961d5e54.chunk.js"
+    "static/js/main.9e8be565.chunk.js"
   ]
 }
